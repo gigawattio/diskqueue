@@ -4,9 +4,9 @@
 [![Build Status](https://travis-ci.org/gigawattio/diskqueue.svg?branch=master)](https://travis-ci.org/gigawattio/diskqueue)
 [![Report Card](https://goreportcard.com/badge/github.com/gigawattio/diskqueue)](https://goreportcard.com/report/github.com/gigawattio/diskqueue)
 
-### About
+# IMPORTANT: Superceded by [github.com/nsqio/go-diskqueue](https://github.com/nsqio/go-diskqueue)
 
-**IMPORTANT: Superceded by [github.com/nsqio/go-diskqueue](https://github.com/nsqio/go-diskqueue)**
+### About
 
 Go (golang) package which provides a disk-backed queueing system.
 

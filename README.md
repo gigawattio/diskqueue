@@ -6,6 +6,8 @@
 
 ### About
 
+**IMPORTANT: Superceded by [github.com/nsqio/go-diskqueue](https://github.com/nsqio/go-diskqueue)**
+
 Go (golang) package which provides a disk-backed queueing system.
 
 Initial implementation lifted from NSQ, see https://github.com/nsqio/nsq/
